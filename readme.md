@@ -26,8 +26,8 @@ Concatenates to:
 [
 {K1:V1},
 {K2:V2},
-{K1:V1},
-{K2:V2}
+{K3:V3},
+{K4:V4}
 ]
 ```
 
